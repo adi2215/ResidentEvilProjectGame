@@ -20,6 +20,7 @@
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 19
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 20
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uasset" 21
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uexp" 22
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uasset" 23
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uexp" 24
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uasset" 25
