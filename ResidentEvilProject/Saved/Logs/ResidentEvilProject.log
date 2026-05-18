@@ -5376,3 +5376,444 @@ Sampler Limit: 32
 [2026.05.18-13.15.32:074][ 68]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
 [2026.05.18-13.15.32:074][ 68]LogShaderCompilers: Display: Material Cache Hits: 40 (23%)
 [2026.05.18-13.15.32:074][ 68]LogShaderCompilers: Display: ================================================
+[2026.05.18-13.30.12:222][961]LogAssetTools: Warning: Не удалось импортировать 'C:\ProgramData\Epic\EpicGamesLauncher\VaultCache\FabLibrary\Lion_Statue-2543be1c\obj/lion-statue_extracted/source/StPancrasLion.rar'. Неизвестное расширение 'rar'.
+[2026.05.18-13.30.12:223][961]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.18-13.30.12:259][961]LogInterchangeEngine: [Ожидание] Импорт
+[2026.05.18-13.30.12:259][961]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Lion_Statue-2543be1c/obj/lion-statue_extracted/textures/internal_ground_ao_texture.jpeg]
+[2026.05.18-13.30.12:260][961]LogInterchangeEngine: [Ожидание] Импорт -  (2)
+[2026.05.18-13.30.12:260][961]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Lion_Statue-2543be1c/obj/lion-statue_extracted/textures/StPancrasLion01.jpeg]
+[2026.05.18-13.30.12:293][961]LogAssetTools: Warning: Не удалось импортировать 'C:\ProgramData\Epic\EpicGamesLauncher\VaultCache\FabLibrary\Lion_Statue-2543be1c\obj/metadata'. Неизвестное расширение ''.
+[2026.05.18-13.30.12:294][961]LogInterchangeEngine: [Ожидание] Импорт -  (3)
+[2026.05.18-13.30.12:294][961]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Lion_Statue-2543be1c/obj/thumbnail.jpeg]
+[2026.05.18-13.30.12:935][963]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.18-13.30.12:936][963]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Lion_Statue-2543be1c/obj/lion-statue_extracted/textures/internal_ground_ao_texture.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.30.12:936][963]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Lion_Statue-2543be1c/obj/thumbnail.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.30.12:936][964]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Lion_Statue-2543be1c/obj/lion-statue_extracted/textures/StPancrasLion01.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.30.13:196][964]LogTexture: Display: Создание текстур: /Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture.internal_ground_ao_texture (TFO_AutoDXT, 512x512 x1x1x1) (требуемый объём памяти: 30.83325 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.30.13:214][964]LogTexture: Display: Создание текстур: /Game/obj/thumbnail.thumbnail (TFO_AutoDXT, 1920x1080 x1x1x1) (требуемый объём памяти: 186.443359 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.30.13:415][964]LogAsyncCompilation: Display: ВНИМАНИЕ: расчётная величина памяти AssetCompile превышает доступную, но выполнение не прекращается [TextureDerivedData]! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1383.148438 MiB 
+[2026.05.18-13.30.13:415][964]LogAsyncCompilation: Display: ВНИМАНИЕ: расчётная величина памяти AssetCompile превышает доступную, но выполнение не прекращается [TextureDerivedData]! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 1383.289062 MiB 
+[2026.05.18-13.30.13:527][965]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...e_extracted/textures/internal_ground_ao_texture.jpeg]
+[2026.05.18-13.30.13:527][965]LogInterchangeEngine: [Ожидание] Импорт -  (2)
+[2026.05.18-13.30.13:528][965]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/..._Statue-2543be1c/obj/thumbnail.jpeg]
+[2026.05.18-13.30.13:528][965]LogInterchangeEngine: [Ожидание] Импорт -  (1)
+[2026.05.18-13.30.13:639][966]LogTexture: Display: Создание текстур: /Game/obj/lion-statue_extracted/textures/StPancrasLion01.StPancrasLion01 (TFO_AutoDXT, 8192x8192 x1x1x1) (требуемый объём памяти: 4480.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.30.15:862][972]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...e_extracted/textures/StPancrasLion01.jpeg]
+[2026.05.18-13.30.15:862][972]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2026.05.18-13.30.15:862][972]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2026.05.18-13.30.32:211][667]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.05.18-13.30.34:840][801]Cmd: TRANSACTION UNDO
+[2026.05.18-13.30.34:840][801]LogEditorTransaction: Undo Расстановка объектов
+[2026.05.18-13.31.45:646][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.05.18-13.31.45:655][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416_Auto4
+[2026.05.18-13.31.45:656][152]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/TS5OQ5CRUWFZYL1ZQ7I416_Auto46121D7B1423AB82796D4AE90BDDEF8C1.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416_Auto4.uasset'
+[2026.05.18-13.31.45:657][152]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2026.05.18-13.31.45:657][152]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2026.05.18-13.31.45:658][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture] ([1] browsable assets)...
+[2026.05.18-13.31.45:662][152]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture.internal_ground_ao_texture]
+[2026.05.18-13.31.45:662][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture]
+[2026.05.18-13.31.45:664][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture_Auto4
+[2026.05.18-13.31.45:664][152]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/internal_ground_ao_texture_Auto4543D94EA4384FFA2FE00219F41124075.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Autosaves/Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture_Auto4.uasset'
+[2026.05.18-13.31.45:665][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/obj/thumbnail] ([1] browsable assets)...
+[2026.05.18-13.31.45:668][152]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/obj/thumbnail.thumbnail]
+[2026.05.18-13.31.45:668][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/obj/thumbnail]
+[2026.05.18-13.31.45:669][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/obj/thumbnail_Auto4
+[2026.05.18-13.31.45:669][152]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/thumbnail_Auto464091C954960B442ECCF5C8A61F24611.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Autosaves/Game/obj/thumbnail_Auto4.uasset'
+[2026.05.18-13.31.45:670][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/obj/lion-statue_extracted/textures/StPancrasLion01] ([1] browsable assets)...
+[2026.05.18-13.31.45:672][152]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/obj/lion-statue_extracted/textures/StPancrasLion01.StPancrasLion01]
+[2026.05.18-13.31.45:672][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/obj/lion-statue_extracted/textures/StPancrasLion01]
+[2026.05.18-13.31.45:677][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/obj/lion-statue_extracted/textures/StPancrasLion01_Auto4
+[2026.05.18-13.31.45:678][152]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/StPancrasLion01_Auto434932F99411F851C44B5788289AA9372.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Autosaves/Game/obj/lion-statue_extracted/textures/StPancrasLion01_Auto4.uasset'
+[2026.05.18-13.31.45:678][152]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.05.18-13.32.36:026][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.18-13.32.37:005][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.18-13.32.37:133][  9]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_505A65F7A6963FDC02_1356996906 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OY/UK9XN82P98FBL0S0CSOBD2.PackageMetaData in its package
+[2026.05.18-13.32.37:158][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.05.18-13.32.37:188][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.05.18-13.32.37:217][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.18-13.32.37:289][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.18-13.33.06:849][735]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.18-13.33.06:912][735]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.fbx]
+[2026.05.18-13.33.09:554][735]LogSlate: Window 'ImportContent' being destroyed
+[2026.05.18-13.33.09:606][735]LogInterchangeEngine: [Ожидание] Импорт
+[2026.05.18-13.33.09:607][735]LogInterchangeEngine: [Ожидание] Импорт -  (2)
+[2026.05.18-13.33.09:608][735]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO.jpg]
+[2026.05.18-13.33.09:608][735]LogInterchangeEngine: [Ожидание] Импорт -  (3)
+[2026.05.18-13.33.09:608][735]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor.jpg]
+[2026.05.18-13.33.09:609][735]LogInterchangeEngine: [Ожидание] Импорт -  (4)
+[2026.05.18-13.33.09:609][735]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump.jpg]
+[2026.05.18-13.33.09:610][735]LogInterchangeEngine: [Ожидание] Импорт -  (5)
+[2026.05.18-13.33.09:610][735]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity.jpg]
+[2026.05.18-13.33.09:610][735]LogInterchangeEngine: [Ожидание] Импорт -  (6)
+[2026.05.18-13.33.09:610][735]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss.jpg]
+[2026.05.18-13.33.09:611][735]LogInterchangeEngine: [Ожидание] Импорт -  (7)
+[2026.05.18-13.33.09:611][735]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal.jpg]
+[2026.05.18-13.33.09:612][735]LogInterchangeEngine: [Ожидание] Импорт -  (8)
+[2026.05.18-13.33.09:612][735]LogInterchangeEngine: [Ожидание] Импорт -  (9)
+[2026.05.18-13.33.09:618][735]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 C:\ProgramData\Epic\EpicGamesLauncher\VaultCache\FabLibrary\Japanese_Komainu_Statue-d2a0a9bf\fbx\mid/japanese_komainu_statue__extracted/ubrpbjcfa.json)
+[2026.05.18-13.33.28:057][735]LogSlate: Window 'Настройки таблицы данных' being destroyed
+[2026.05.18-13.33.28:066][735]LogAssetTools: The import task was canceled.
+[2026.05.18-13.33.28:125][736]LogStreaming: Display: FlushAsyncLoading(617): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.18-13.33.28:168][737]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.18-13.33.28:172][737]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:172][737]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:172][738]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:172][738]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:172][738]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:172][738]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:215][738]LogStaticMesh: Display: Создание статичной сетки Japanese_Komainu_Statue_ubrpbjcfa_Mid (расчётный объём требуемой памяти: 12.623286 Мбайт)...
+[2026.05.18-13.33.28:246][739]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2026.05.18-13.33.28:259][739]LogStaticMesh: Adjacency [0.00s], tris: 8248, UVs 1
+[2026.05.18-13.33.28:267][739]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.05.18-13.33.28:268][739]LogStaticMesh: Leaves [0.00s]
+[2026.05.18-13.33.28:272][739]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (требуемый объём памяти: 280.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.28:342][740]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump (TFO_AutoDXT, 2048x2048 x1x1x1) (требуемый объём памяти: 280.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.28:454][741]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (требуемый объём памяти: 280.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.28:566][741]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.05.18-13.33.28:603][742]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor.jpg]
+[2026.05.18-13.33.28:603][742]LogInterchangeEngine: [Ожидание] Импорт -  (8)
+[2026.05.18-13.33.28:603][742]LogInterchangeEngine: [Ожидание] Импорт -  (8)
+[2026.05.18-13.33.28:603][742]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness.jpg]
+[2026.05.18-13.33.28:604][742]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump.jpg]
+[2026.05.18-13.33.28:604][742]LogInterchangeEngine: [Ожидание] Импорт -  (7)
+[2026.05.18-13.33.28:604][742]LogInterchangeEngine: [Ожидание] Импорт -  (7)
+[2026.05.18-13.33.28:604][742]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular.jpg]
+[2026.05.18-13.33.28:648][743]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (требуемый объём памяти: 382.499988 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.28:693][743]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity (TFO_AutoDXT, 2048x2048 x1x1x1) (требуемый объём памяти: 280.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.28:723][743]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO.jpg]
+[2026.05.18-13.33.28:724][743]LogInterchangeEngine: [Ожидание] Импорт -  (6)
+[2026.05.18-13.33.28:779][744]LogStaticMesh: Reduce [0.51s]
+[2026.05.18-13.33.28:847][745]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal.jpg]
+[2026.05.18-13.33.28:848][745]LogInterchangeEngine: [Ожидание] Импорт -  (5)
+[2026.05.18-13.33.28:848][745]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.18-13.33.28:850][745]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:850][746]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/Japanese_Komainu_Statue-d2a0a9bf/fbx/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.18-13.33.28:861][746]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss (TFO_AutoDXT, 2048x2048 x1x1x1) (требуемый объём памяти: 280.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.28:909][746]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity.jpg]
+[2026.05.18-13.33.28:909][746]LogInterchangeEngine: [Ожидание] Импорт -  (4)
+[2026.05.18-13.33.28:965][746]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (требуемый объём памяти: 280.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.29:026][747]LogTexture: Display: Создание текстур: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular (TFO_AutoDXT, 2048x2048 x1x1x1) (требуемый объём памяти: 280.999983 МБайт), Скорость кодирования: Fast
+[2026.05.18-13.33.29:049][747]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss.jpg]
+[2026.05.18-13.33.29:049][747]LogInterchangeEngine: [Ожидание] Импорт -  (3)
+[2026.05.18-13.33.29:103][749]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness.jpg]
+[2026.05.18-13.33.29:103][749]LogInterchangeEngine: [Ожидание] Импорт -  (2)
+[2026.05.18-13.33.29:136][752]LogStaticMesh: Fallback [0.36s], num tris: 3880
+[2026.05.18-13.33.29:143][752]LogStaticMesh: ConstrainClusters:
+[2026.05.18-13.33.29:143][752]LogStaticMesh:   Input: 135 Clusters, 17064 Triangles and 13019 Vertices
+[2026.05.18-13.33.29:143][752]LogStaticMesh:   Output without splits: 135 Clusters, 17064 Triangles and 13268 Vertices
+[2026.05.18-13.33.29:143][752]LogStaticMesh:   Output with splits: 135 Clusters, 17064 Triangles and 13268 Vertices
+[2026.05.18-13.33.29:144][752]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 135, Slow Path Clusters: 0, 1 Material: 135, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.18-13.33.29:154][752]LogStaticMesh: WritePages:
+[2026.05.18-13.33.29:154][752]LogStaticMesh:   Root: GPU size: 32572 bytes. 1 Pages. 32572.000 bytes per page (99.402% utilization).
+[2026.05.18-13.33.29:154][752]LogStaticMesh:   Streaming: GPU size: 141480 bytes. 2 Pages (2 with relative encoding). 70740.000 bytes per page (53.970% utilization).
+[2026.05.18-13.33.29:154][752]LogStaticMesh:   Page data disk size: 150276 bytes. Fixup data size: 648 bytes.
+[2026.05.18-13.33.29:154][752]LogStaticMesh:   Total GPU size: 174052 bytes, Total disk size: 150924 bytes.
+[2026.05.18-13.33.29:154][752]LogStaticMesh: Encode [0.02s]
+[2026.05.18-13.33.29:154][752]LogStaticMesh: Nanite build [0.90s]
+
+[2026.05.18-13.33.29:170][753]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular.jpg]
+[2026.05.18-13.33.29:170][753]LogInterchangeEngine: [Ожидание] Импорт -  (1)
+[2026.05.18-13.33.29:174][754]LogStaticMesh: Built static mesh [0.96s] /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid
+[2026.05.18-13.33.29:326][759]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...nu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.fbx]
+[2026.05.18-13.33.29:326][759]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2026.05.18-13.33.29:326][759]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: ================================================
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Total job queries 351, among them cache hits 86 (24.50%), DDC hits 213 (60.68%), Duplicates 2 (0.57%)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Tracking 263 distinct input hashes that result in 223 distinct outputs (84.79%)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: RAM used: 144,52 KiB of 819,20 MiB budget. Usage: 0.02%
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Shaders Compiled: 47
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Jobs assigned 50, completed 47 (94.00%)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Average time worker was idle: 270.84 s
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Job execution time: average 4.30 s, max 9.43 s
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Job life time (pending + execution): average 4.37 s, max 9.49
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Shader code size: average 8,553 KiB, min 4,137 KiB, max 12,894 KiB
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.31 s
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Average processing rate: 0.99 jobs/sec
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Total thread time: 41,138 s
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Total thread preprocess time: 7,565 s
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Percentage time preprocessing: 18.39%
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Effective parallelization: 0.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.71 sec, max 2.01 sec, min 1.40 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.44 sec, max 1.70 sec, min 1.22 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.33 sec, max 1.61 sec, min 1.05 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.27 sec, max 1.41 sec, min 1.05 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.89 sec, max 1.07 sec, min 0.71 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.87% of total time (compiled   11 times, average 0.82 sec, max 0.95 sec, min 0.63 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.51% of total time (compiled    5 times, average 1.44 sec, max 1.70 sec, min 1.22 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.57% of total time (compiled   11 times, average 0.58 sec, max 0.74 sec, min 0.44 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.35% of total time (compiled    4 times, average 1.27 sec, max 1.41 sec, min 1.05 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.31% of total time (compiled    2 times, average 1.71 sec, max 2.01 sec, min 1.40 sec)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: === Material stats ===
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Materials Translated:    179
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Material Translation Only: 0.04 s (53%)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: Material Cache Hits: 40 (22%)
+[2026.05.18-13.33.32:250][911]LogShaderCompilers: Display: ================================================
+[2026.05.18-13.33.34:858][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid
+[2026.05.18-13.33.34:859][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid
+[2026.05.18-13.33.34:860][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2026.05.18-13.33.34:861][ 48]LogMaterial: Display: Material /Game/mid/japanese_komainu_statue__extracted/MatID_1.MatID_1 needed to have new flag set bUsedWithNanite !
+[2026.05.18-13.33.38:146][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.05.18-13.33.38:150][ 64]LogEditorActor: Deleted 0 Actors (1.346 secs)
+[2026.05.18-13.33.38:236][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid
+[2026.05.18-13.33.38:236][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid
+[2026.05.18-13.33.39:091][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_505A65F7A6964CDC02_1259716194
+[2026.05.18-13.34.02:818][313]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/mid/japanese_komainu_statue__extracted/MatID_1.MatID_1
+[2026.05.18-13.34.02:832][313]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.18-13.34.03:350][313]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.18-13.34.03:350][313]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.18-13.34.03:350][313]MaterialEditorStats: Shader Count: 0
+[2026.05.18-13.34.03:350][313]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.03:495][315]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.18-13.34.03:495][315]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.18-13.34.03:495][315]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.18-13.34.03:495][315]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.18-13.34.03:495][315]MaterialEditorStats: Shader Count: 3
+[2026.05.18-13.34.03:495][315]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.17:553][846]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.18-13.34.17:553][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.18-13.34.17:553][846]MaterialEditorStats: Shader Count: 0
+[2026.05.18-13.34.17:553][846]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.17:684][848]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.18-13.34.17:684][848]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.18-13.34.17:684][848]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.18-13.34.17:684][848]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.18-13.34.17:684][848]MaterialEditorStats: Shader Count: 3
+[2026.05.18-13.34.17:684][848]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.24:385][145]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor
+[2026.05.18-13.34.28:051][311]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.18-13.34.28:051][311]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.18-13.34.28:051][311]MaterialEditorStats: Shader Count: 0
+[2026.05.18-13.34.28:051][311]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.28:109][313]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.18-13.34.28:109][313]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.18-13.34.28:109][313]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.18-13.34.28:109][313]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.18-13.34.28:109][313]MaterialEditorStats: Shader Count: 3
+[2026.05.18-13.34.28:109][313]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.30:716][430]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.18-13.34.30:716][430]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.18-13.34.30:716][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.18-13.34.30:716][430]MaterialEditorStats: Shader Count: 0
+[2026.05.18-13.34.30:716][430]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.30:763][432]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.18-13.34.30:763][432]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.18-13.34.30:763][432]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.18-13.34.30:763][432]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.18-13.34.30:763][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.18-13.34.30:763][432]MaterialEditorStats: Shader Count: 3
+[2026.05.18-13.34.30:763][432]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.34:842][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-13.34.34:942][585]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2026.05.18-13.34.34:943][585]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/TS5OQ5CRUWFZYL1ZQ7I416B5311EFE4E1107E78F8E21B6F001AF7A.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2026.05.18-13.34.34:947][585]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BA/QN8D49P72B968Z9E857TCX
+[2026.05.18-13.34.34:947][585]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/QN8D49P72B968Z9E857TCXBEB3F9104B9349C95B2636ACD784264C.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BA/QN8D49P72B968Z9E857TCX.uasset'
+[2026.05.18-13.34.34:961][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.777 ms (total: 17.0 sec)
+[2026.05.18-13.34.35:038][585]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.18-13.34.35:038][585]LogContentValidation: Enabled validators:
+[2026.05.18-13.34.35:038][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-13.34.35:038][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-13.34.35:038][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-13.34.35:038][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-13.34.35:038][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-13.34.35:038][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-13.34.35:038][585]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Проверка ресурса
+[2026.05.18-13.34.36:035][634]LogMaterialEditor: Saving and Compiling material MatID_1
+[2026.05.18-13.34.37:880][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.05.18-13.34.44:212][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.18-13.34.44:386][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-13.34.44:475][634]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/MatID_1] ([1] browsable assets)...
+[2026.05.18-13.34.44:499][634]OBJ SavePackage:     Rendered thumbnail for [Material /Game/mid/japanese_komainu_statue__extracted/MatID_1.MatID_1]
+[2026.05.18-13.34.44:499][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/MatID_1]
+[2026.05.18-13.34.44:501][634]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/MatID_1
+[2026.05.18-13.34.44:501][634]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/MatID_1C8049E6D49956FAE5FFAE1A4784825ED.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/MatID_1.uasset'
+[2026.05.18-13.34.44:518][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.081 ms (total: 17.1 sec)
+[2026.05.18-13.34.44:612][634]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-13.34.44:612][634]LogContentValidation: Enabled validators:
+[2026.05.18-13.34.44:612][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-13.34.44:612][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-13.34.44:612][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-13.34.44:612][634]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-13.34.44:612][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-13.34.44:612][634]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-13.34.44:612][634]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/MatID_1 Проверка ресурса
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: Nanite Compute Shader: 817 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: Shader Count: 15
+[2026.05.18-13.34.44:633][634]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.18-13.34.47:499][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-13.34.47:607][770]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor] ([1] browsable assets)...
+[2026.05.18-13.34.47:609][770]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor]
+[2026.05.18-13.34.47:609][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor]
+[2026.05.18-13.34.47:612][770]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor
+[2026.05.18-13.34.47:613][770]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcf5ECC73584D7F3DDD2B54C39E1D619941.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor.uasset'
+[2026.05.18-13.34.47:627][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.978 ms (total: 17.2 sec)
+[2026.05.18-13.34.47:714][770]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-13.34.47:714][770]LogContentValidation: Enabled validators:
+[2026.05.18-13.34.47:714][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-13.34.47:714][770]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-13.34.47:714][770]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-13.34.47:714][770]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-13.34.47:714][770]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-13.34.47:714][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-13.34.47:714][770]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_BaseColor Проверка ресурса
+[2026.05.18-13.34.57:822][345]Cmd: TRANSACTION UNDO
+[2026.05.18-13.34.57:823][345]LogEditorTransaction: Undo Задать вращение
+[2026.05.18-13.35.05:169][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-13.35.05:245][765]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BA/QN8D49P72B968Z9E857TCX
+[2026.05.18-13.35.05:246][765]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/QN8D49P72B968Z9E857TCXA3ED772243EF6D641E8B9A9B08A9A5B8.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BA/QN8D49P72B968Z9E857TCX.uasset'
+[2026.05.18-13.35.05:257][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.460 ms (total: 17.3 sec)
+[2026.05.18-13.35.05:346][765]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-13.35.05:346][765]LogContentValidation: Enabled validators:
+[2026.05.18-13.35.05:346][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-13.35.05:346][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-13.35.05:346][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-13.35.05:346][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-13.35.05:346][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-13.35.05:346][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-13.35.05:346][765]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Проверка ресурса
+[2026.05.18-13.35.16:267][154]LogSlate: Window 'MatID_1' being destroyed
+[2026.05.18-13.35.16:301][154]LogSlate: Window 'MatID_1' being destroyed
+[2026.05.18-13.35.17:160][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.05.18-13.35.20:127][203]LogSlate: Window 'Сохранять контент' being destroyed
+[2026.05.18-13.35.20:165][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-13.35.20:237][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture] ([1] browsable assets)...
+[2026.05.18-13.35.20:237][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture]
+[2026.05.18-13.35.20:239][203]LogSavePackage: Moving output files for package: /Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture
+[2026.05.18-13.35.20:239][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/internal_ground_ao_texture15E8C2414F1C298431DD05B290D82213.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/obj/lion-statue_extracted/textures/internal_ground_ao_texture.uasset'
+[2026.05.18-13.35.20:242][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid] ([1] browsable assets)...
+[2026.05.18-13.35.20:276][203]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.Japanese_Komainu_Statue_ubrpbjcfa_Mid]
+[2026.05.18-13.35.20:276][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid]
+[2026.05.18-13.35.20:286][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid
+[2026.05.18-13.35.20:286][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcf2EE286BC4D32C7FBD6E9B990425B09EB.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid.uasset'
+[2026.05.18-13.35.20:289][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO] ([1] browsable assets)...
+[2026.05.18-13.35.20:291][203]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO]
+[2026.05.18-13.35.20:291][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO]
+[2026.05.18-13.35.20:294][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO
+[2026.05.18-13.35.20:294][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcfD33272C14FF40F0D9DDF09B9CFC58A7C.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO.uasset'
+[2026.05.18-13.35.20:295][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump] ([1] browsable assets)...
+[2026.05.18-13.35.20:297][203]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump]
+[2026.05.18-13.35.20:297][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump]
+[2026.05.18-13.35.20:300][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump
+[2026.05.18-13.35.20:300][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcf1E19568D478334BE06E91191B2911BE8.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump.uasset'
+[2026.05.18-13.35.20:302][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity] ([1] browsable assets)...
+[2026.05.18-13.35.20:304][203]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity]
+[2026.05.18-13.35.20:304][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity]
+[2026.05.18-13.35.20:307][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity
+[2026.05.18-13.35.20:307][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcf8468BE16461D2C3A7893B2B45696A82F.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity.uasset'
+[2026.05.18-13.35.20:309][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss] ([1] browsable assets)...
+[2026.05.18-13.35.20:310][203]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss]
+[2026.05.18-13.35.20:310][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss]
+[2026.05.18-13.35.20:312][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss
+[2026.05.18-13.35.20:312][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcf996C5B6A4D0E03A53B97D18D0CE5B2D1.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss.uasset'
+[2026.05.18-13.35.20:315][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal] ([1] browsable assets)...
+[2026.05.18-13.35.20:317][203]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal]
+[2026.05.18-13.35.20:317][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal]
+[2026.05.18-13.35.20:322][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal
+[2026.05.18-13.35.20:322][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcf6D0A9CFD41EDC26DF81216A45D0EAAD6.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal.uasset'
+[2026.05.18-13.35.20:324][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness] ([1] browsable assets)...
+[2026.05.18-13.35.20:326][203]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness]
+[2026.05.18-13.35.20:326][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness]
+[2026.05.18-13.35.20:328][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness
+[2026.05.18-13.35.20:328][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcfA76ACA1A4FA5D1DFF70516AAA597B406.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness.uasset'
+[2026.05.18-13.35.20:330][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular] ([1] browsable assets)...
+[2026.05.18-13.35.20:332][203]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular.Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular]
+[2026.05.18-13.35.20:332][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular]
+[2026.05.18-13.35.20:335][203]LogSavePackage: Moving output files for package: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular
+[2026.05.18-13.35.20:335][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Japanese_Komainu_Statue_ubrpbjcfAE5039CD4829EAEBA586819B4AB99B16.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular.uasset'
+[2026.05.18-13.35.20:337][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/obj/lion-statue_extracted/textures/StPancrasLion01] ([1] browsable assets)...
+[2026.05.18-13.35.20:337][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/obj/lion-statue_extracted/textures/StPancrasLion01]
+[2026.05.18-13.35.20:342][203]LogSavePackage: Moving output files for package: /Game/obj/lion-statue_extracted/textures/StPancrasLion01
+[2026.05.18-13.35.20:342][203]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/StPancrasLion01808E51C74B67E9563D5B70A718428624.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/obj/lion-statue_extracted/textures/StPancrasLion01.uasset'
+[2026.05.18-13.35.20:358][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.202 ms (total: 17.5 sec)
+[2026.05.18-13.35.20:448][203]LogContentValidation: Display: Starting to validate 10 assets
+[2026.05.18-13.35.20:448][203]LogContentValidation: Enabled validators:
+[2026.05.18-13.35.20:448][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-13.35.20:448][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-13.35.20:448][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-13.35.20:448][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-13.35.20:448][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-13.35.20:448][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/obj/lion-statue_extracted/textures/internal_ground_ao_texture Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_AO Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Bump Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Cavity Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Gloss Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Normal Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Roughness Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/mid/japanese_komainu_statue__extracted/Japanese_Komainu_Statue_ubrpbjcfa_Mid_2K_Specular Проверка ресурса
+[2026.05.18-13.35.20:448][203]AssetCheck: /Game/obj/lion-statue_extracted/textures/StPancrasLion01 Проверка ресурса
+[2026.05.18-13.35.29:363][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.05.18-13.35.30:394][718]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.18-13.35.30:429][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.05.18-13.35.30:459][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.05.18-13.35.30:487][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
