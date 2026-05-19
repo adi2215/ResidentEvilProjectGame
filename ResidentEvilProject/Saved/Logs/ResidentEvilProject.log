@@ -4467,3 +4467,1220 @@ Sampler Limit: 32
 [2026.05.19-02.24.24:698][202]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/textures/M_Door_3_JFG_ORM_Auto4
 [2026.05.19-02.24.24:698][202]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/M_Door_3_JFG_ORM_Auto4FCFD004946D05F49C6004EB3A9A9FC6E.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Autosaves/Game/Blueprint/textures/M_Door_3_JFG_ORM_Auto4.uasset'
 [2026.05.19-02.24.24:699][202]LogFileHelpers: Auto-saving content packages took 0.107
+[2026.05.19-02.25.44:997][591]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprint/AnotehrDoor/source/Door_Material.Door_Material
+[2026.05.19-02.25.45:002][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.05.19-02.25.45:559][591]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.25.45:559][591]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.25.45:559][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.25.45:559][591]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.25.45:559][591]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.05.19-02.25.45:665][593]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.25.45:665][593]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.25.45:665][593]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.19-02.25.45:665][593]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.25.45:665][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.25.45:665][593]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.25.45:666][593]MaterialEditorStats: Preshaders: 4  (4 param fetches, 11 ops)
+[2026.05.19-02.25.48:560][708]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.25.48:560][708]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.25.48:560][708]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.25.48:560][708]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.25.48:634][710]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.25.48:634][710]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.25.48:634][710]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.19-02.25.48:634][710]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.25.48:634][710]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.25.48:634][710]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.25.52:278][855]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.25.52:278][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.25.52:278][855]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.25.52:278][855]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.25.52:377][857]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.25.52:377][857]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.25.52:377][857]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.19-02.25.52:377][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.25.52:377][857]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.25.52:377][857]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.25.52:711][871]LogMaterialEditor: Saving and Compiling material Door_Material
+[2026.05.19-02.25.52:880][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.19-02.25.53:081][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.19-02.25.53:093][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.25.53:171][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/AnotehrDoor/source/Door_Material] ([1] browsable assets)...
+[2026.05.19-02.25.53:178][871]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprint/AnotehrDoor/source/Door_Material.Door_Material]
+[2026.05.19-02.25.53:178][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/AnotehrDoor/source/Door_Material]
+[2026.05.19-02.25.53:181][871]LogSavePackage: Moving output files for package: /Game/Blueprint/AnotehrDoor/source/Door_Material
+[2026.05.19-02.25.53:181][871]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Door_Material47093B724CDA6CCE44FF8BAA9FD778BE.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/AnotehrDoor/source/Door_Material.uasset'
+[2026.05.19-02.25.53:189][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.495 ms (total: 8.06 sec)
+[2026.05.19-02.25.53:263][871]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.25.53:263][871]LogContentValidation: Enabled validators:
+[2026.05.19-02.25.53:263][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.25.53:263][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.25.53:263][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.25.53:263][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.25.53:263][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.25.53:263][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.25.53:263][871]AssetCheck: /Game/Blueprint/AnotehrDoor/source/Door_Material Проверка ресурса
+[2026.05.19-02.25.53:273][871]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.25.53:273][871]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.25.53:273][871]MaterialEditorStats: Nanite Compute Shader: 782 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.25.53:273][871]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.19-02.25.53:273][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.25.53:273][871]MaterialEditorStats: Shader Count: 15
+[2026.05.19-02.25.53:273][871]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.25.58:258][ 63]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.25.58:258][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.25.58:258][ 63]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.25.58:258][ 63]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.25.58:298][ 64]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.25.58:298][ 64]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.25.58:298][ 64]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.19-02.25.58:298][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.25.58:298][ 64]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.25.58:298][ 64]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.26.00:305][141]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.26.00:305][141]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.26.00:305][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.26.00:305][141]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.26.00:305][141]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.26.00:363][143]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.26.00:363][143]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.26.00:363][143]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.19-02.26.00:363][143]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.26.00:363][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.26.00:363][143]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.26.00:363][143]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.26.00:614][153]LogMaterialEditor: Saving and Compiling material Door_Material
+[2026.05.19-02.26.00:741][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.19-02.26.00:958][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.05.19-02.26.00:970][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.26.01:060][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/AnotehrDoor/source/Door_Material] ([1] browsable assets)...
+[2026.05.19-02.26.01:067][153]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprint/AnotehrDoor/source/Door_Material.Door_Material]
+[2026.05.19-02.26.01:067][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/AnotehrDoor/source/Door_Material]
+[2026.05.19-02.26.01:070][153]LogSavePackage: Moving output files for package: /Game/Blueprint/AnotehrDoor/source/Door_Material
+[2026.05.19-02.26.01:070][153]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Door_Material710BDFBE4554DCB78CA2C987B6EDA61C.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/AnotehrDoor/source/Door_Material.uasset'
+[2026.05.19-02.26.01:078][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.977 ms (total: 8.17 sec)
+[2026.05.19-02.26.01:146][153]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.26.01:146][153]LogContentValidation: Enabled validators:
+[2026.05.19-02.26.01:146][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.26.01:146][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.26.01:146][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.26.01:146][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.26.01:146][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.26.01:146][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.26.01:147][153]AssetCheck: /Game/Blueprint/AnotehrDoor/source/Door_Material Проверка ресурса
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: Nanite Compute Shader: 817 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: Shader Count: 15
+[2026.05.19-02.26.01:157][153]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.26.01:293][158]LogMaterialEditor: Saving and Compiling material Door_Material
+[2026.05.19-02.26.01:297][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.26.01:431][158]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/AnotehrDoor/source/Door_Material] ([1] browsable assets)...
+[2026.05.19-02.26.01:431][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/AnotehrDoor/source/Door_Material]
+[2026.05.19-02.26.01:433][158]LogSavePackage: Moving output files for package: /Game/Blueprint/AnotehrDoor/source/Door_Material
+[2026.05.19-02.26.01:434][158]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Door_MaterialBF31E15241ED097C41EBAFBF5F65AA87.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/AnotehrDoor/source/Door_Material.uasset'
+[2026.05.19-02.26.01:441][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.228 ms (total: 8.31 sec)
+[2026.05.19-02.26.01:521][158]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.26.01:521][158]LogContentValidation: Enabled validators:
+[2026.05.19-02.26.01:521][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.26.01:521][158]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.26.01:521][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.26.01:521][158]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.26.01:521][158]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.26.01:521][158]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.26.01:521][158]AssetCheck: /Game/Blueprint/AnotehrDoor/source/Door_Material Проверка ресурса
+[2026.05.19-02.26.02:273][189]LogMaterialEditor: Saving and Compiling material Door_Material
+[2026.05.19-02.26.02:276][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.26.02:380][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/AnotehrDoor/source/Door_Material] ([1] browsable assets)...
+[2026.05.19-02.26.02:380][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/AnotehrDoor/source/Door_Material]
+[2026.05.19-02.26.02:383][189]LogSavePackage: Moving output files for package: /Game/Blueprint/AnotehrDoor/source/Door_Material
+[2026.05.19-02.26.02:383][189]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Door_MaterialDED8A02C4FAED64F1B6945BD1C9D174A.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/AnotehrDoor/source/Door_Material.uasset'
+[2026.05.19-02.26.02:391][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.867 ms (total: 8.43 sec)
+[2026.05.19-02.26.02:471][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.26.02:471][189]LogContentValidation: Enabled validators:
+[2026.05.19-02.26.02:471][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.26.02:471][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.26.02:471][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.26.02:472][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.26.02:472][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.26.02:472][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.26.02:472][189]AssetCheck: /Game/Blueprint/AnotehrDoor/source/Door_Material Проверка ресурса
+[2026.05.19-02.26.27:411][172]LogDerivedDataCache: C:/Users/ADI22/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Total job queries 630, among them cache hits 369 (58.57%), DDC hits 199 (31.59%), Duplicates 4 (0.63%)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Tracking 254 distinct input hashes that result in 211 distinct outputs (83.07%)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: RAM used: 141,94 KiB of 819,20 MiB budget. Usage: 0.02%
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Shaders Compiled: 55
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Jobs assigned 55, completed 55 (100%)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Average time worker was idle: 9816.00 s
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.15 s
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Job execution time: average 8.91 s, max 13.24 s
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Job life time (pending + execution): average 8.96 s, max 13.27
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Shader code size: average 10,303 KiB, min 4,172 KiB, max 19,855 KiB
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.21 s
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.62 jobs/batch
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Average processing rate: 1.17 jobs/sec
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Total thread time: 69,77 s
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Total thread preprocess time: 13,725 s
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Percentage time preprocessing: 19.67%
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Effective parallelization: 1.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 3.16 sec, max 3.85 sec, min 2.47 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 2.51 sec, max 2.52 sec, min 2.50 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 2.47 sec, max 3.13 sec, min 1.82 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    5 times, average 2.04 sec, max 3.07 sec, min 1.34 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.86 sec, max 3.08 sec, min 1.27 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.03% of total time (compiled    6 times, average 1.86 sec, max 3.08 sec, min 1.27 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.59% of total time (compiled    5 times, average 2.04 sec, max 3.07 sec, min 1.34 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.65% of total time (compiled    5 times, average 1.77 sec, max 2.51 sec, min 1.21 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 9.06% of total time (compiled    2 times, average 3.16 sec, max 3.85 sec, min 2.47 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.65% of total time (compiled    7 times, average 0.86 sec, max 1.23 sec, min 0.57 sec)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: === Material stats ===
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Materials Translated:    248
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Material Translation Only: 0.06 s (33%)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: Material Cache Hits: 28 (11%)
+[2026.05.19-02.26.29:775][265]LogShaderCompilers: Display: ================================================
+[2026.05.19-02.26.41:865][743]LogEditorTransaction: Undo Задать вращение
+[2026.05.19-02.26.57:541][334]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprint/AnotehrDoor/source/Damage_Door_Door.Damage_Door_Door
+[2026.05.19-02.26.57:550][334]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.05.19-02.27.18:510][980]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.27.18:510][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.27.18:604][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.05.19-02.27.27:880][331]LogEditorTransaction: Undo Изменить компонент(ы)
+[2026.05.19-02.27.28:397][338]LogEditorTransaction: Undo Изменить компонент(ы)
+[2026.05.19-02.27.28:785][349]LogEditorTransaction: Undo Изменить компонент(ы)
+[2026.05.19-02.27.29:224][362]LogEditorTransaction: Undo Задать вращение
+[2026.05.19-02.27.29:747][378]LogEditorTransaction: Undo Редактировать Static Mesh
+[2026.05.19-02.27.30:194][389]LogEditorTransaction: Undo Создать ссылку на контакт
+[2026.05.19-02.27.30:331][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.05.19-02.27.30:559][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.19-02.27.30:688][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.05.19-02.27.30:898][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.05.19-02.27.30:952][389]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.27.30:952][389]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.27.30:952][389]MaterialEditorStats: Nanite Compute Shader: 782 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.27.30:952][389]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.19-02.27.30:952][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.27.30:952][389]MaterialEditorStats: Shader Count: 15
+[2026.05.19-02.27.30:952][389]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.27.33:437][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.05.19-02.27.33:994][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.27.34:080][488]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door] ([2] browsable assets)...
+[2026.05.19-02.27.34:090][488]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/SomeObjects/BP_Door.BP_Door]
+[2026.05.19-02.27.34:090][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door]
+[2026.05.19-02.27.34:090][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SomeObjects/BP_Door" FILE="../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door.uasset" SILENT=true
+[2026.05.19-02.27.34:104][488]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door
+[2026.05.19-02.27.34:104][488]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door1DA3FE1F452D56E4B46ED181CCD081C0.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door.uasset'
+[2026.05.19-02.27.34:113][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.035 ms (total: 8.55 sec)
+[2026.05.19-02.27.34:197][488]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.27.34:198][488]LogContentValidation: Enabled validators:
+[2026.05.19-02.27.34:198][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.27.34:198][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.27.34:198][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.27.34:198][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.27.34:198][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.27.34:198][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.27.34:198][488]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door Проверка ресурса
+[2026.05.19-02.27.43:281][802]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.27.43:281][802]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.27.43:281][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.27.43:281][802]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.27.43:281][802]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.27.43:340][804]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.27.43:341][804]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.27.43:341][804]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.19-02.27.43:341][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.27.43:341][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.27.43:341][804]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.27.43:341][804]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.27.43:562][812]LogMaterialEditor: Saving and Compiling material Door_Material
+[2026.05.19-02.27.43:674][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.05.19-02.27.43:890][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.05.19-02.27.43:904][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.27.43:980][812]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/AnotehrDoor/source/Door_Material] ([1] browsable assets)...
+[2026.05.19-02.27.43:988][812]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprint/AnotehrDoor/source/Door_Material.Door_Material]
+[2026.05.19-02.27.43:988][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/AnotehrDoor/source/Door_Material]
+[2026.05.19-02.27.43:990][812]LogSavePackage: Moving output files for package: /Game/Blueprint/AnotehrDoor/source/Door_Material
+[2026.05.19-02.27.43:991][812]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Door_Material2E26F05349B695A17FCCA9878865C0D6.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/AnotehrDoor/source/Door_Material.uasset'
+[2026.05.19-02.27.43:999][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.885 ms (total: 8.64 sec)
+[2026.05.19-02.27.44:084][812]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.27.44:084][812]LogContentValidation: Enabled validators:
+[2026.05.19-02.27.44:084][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.27.44:084][812]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.27.44:084][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.27.44:084][812]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.27.44:084][812]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.27.44:084][812]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.27.44:084][812]AssetCheck: /Game/Blueprint/AnotehrDoor/source/Door_Material Проверка ресурса
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: Nanite Compute Shader: 817 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: Shader Count: 15
+[2026.05.19-02.27.44:097][812]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.19-02.27.44:599][828]LogMaterialEditor: Saving and Compiling material Door_Material
+[2026.05.19-02.27.44:605][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.27.44:711][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/AnotehrDoor/source/Door_Material] ([1] browsable assets)...
+[2026.05.19-02.27.44:711][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/AnotehrDoor/source/Door_Material]
+[2026.05.19-02.27.44:713][828]LogSavePackage: Moving output files for package: /Game/Blueprint/AnotehrDoor/source/Door_Material
+[2026.05.19-02.27.44:714][828]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Door_Material343A4CCD4EE6DCE485DB84B7528A9E1B.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/AnotehrDoor/source/Door_Material.uasset'
+[2026.05.19-02.27.44:722][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.020 ms (total: 8.76 sec)
+[2026.05.19-02.27.44:807][828]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.27.44:807][828]LogContentValidation: Enabled validators:
+[2026.05.19-02.27.44:807][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.27.44:807][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.27.44:807][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.27.44:807][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.27.44:807][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.27.44:807][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.27.44:807][828]AssetCheck: /Game/Blueprint/AnotehrDoor/source/Door_Material Проверка ресурса
+[2026.05.19-02.28.18:112][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.28.18:222][120]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door2] ([2] browsable assets)...
+[2026.05.19-02.28.18:231][120]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2]
+[2026.05.19-02.28.18:231][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door2]
+[2026.05.19-02.28.18:246][120]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door2
+[2026.05.19-02.28.18:246][120]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door24BBFF563411FFEADCBBC76A4A2B11732.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door2.uasset'
+[2026.05.19-02.28.18:255][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.215 ms (total: 8.90 sec)
+[2026.05.19-02.28.18:335][120]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.28.18:335][120]LogContentValidation: Enabled validators:
+[2026.05.19-02.28.18:335][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.28.18:335][120]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.28.18:335][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.28.18:335][120]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.28.18:335][120]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.28.18:335][120]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.28.18:335][120]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door2 Проверка ресурса
+[2026.05.19-02.28.19:527][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.05.19-02.28.42:813][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.28.42:896][ 92]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door2] ([2] browsable assets)...
+[2026.05.19-02.28.42:911][ 92]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2]
+[2026.05.19-02.28.42:911][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door2]
+[2026.05.19-02.28.42:925][ 92]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door2
+[2026.05.19-02.28.42:926][ 92]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door281F8EDE547936D315C95FA9E04F05EC1.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door2.uasset'
+[2026.05.19-02.28.42:935][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.462 ms (total: 9.02 sec)
+[2026.05.19-02.28.43:010][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.28.43:010][ 92]LogContentValidation: Enabled validators:
+[2026.05.19-02.28.43:010][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.28.43:010][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.28.43:010][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.28.43:010][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.28.43:010][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.28.43:011][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.28.43:011][ 92]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door2 Проверка ресурса
+[2026.05.19-02.28.44:044][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.28.44:127][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door2] ([2] browsable assets)...
+[2026.05.19-02.28.44:127][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door2]
+[2026.05.19-02.28.44:140][136]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door2
+[2026.05.19-02.28.44:141][136]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door26E49781543E5409D51F9279B1A97FD46.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door2.uasset'
+[2026.05.19-02.28.44:149][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.424 ms (total: 9.13 sec)
+[2026.05.19-02.28.44:226][136]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.28.44:226][136]LogContentValidation: Enabled validators:
+[2026.05.19-02.28.44:226][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.28.44:226][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.28.44:226][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.28.44:226][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.28.44:226][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.28.44:226][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.28.44:226][136]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door2 Проверка ресурса
+[2026.05.19-02.29.06:778][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.29.06:857][151]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door2] ([2] browsable assets)...
+[2026.05.19-02.29.06:874][151]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2]
+[2026.05.19-02.29.06:874][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door2]
+[2026.05.19-02.29.06:888][151]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door2
+[2026.05.19-02.29.06:889][151]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door258463096423F24BCAD40F69651C4C98A.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door2.uasset'
+[2026.05.19-02.29.06:896][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.633 ms (total: 9.25 sec)
+[2026.05.19-02.29.06:976][151]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.29.06:976][151]LogContentValidation: Enabled validators:
+[2026.05.19-02.29.06:976][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.29.06:976][151]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.29.06:976][151]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.29.06:976][151]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.29.06:976][151]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.29.06:976][151]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.29.06:977][151]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door2 Проверка ресурса
+[2026.05.19-02.29.07:359][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.05.19-02.29.07:931][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.29.08:013][184]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door2] ([2] browsable assets)...
+[2026.05.19-02.29.08:028][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2]
+[2026.05.19-02.29.08:028][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door2]
+[2026.05.19-02.29.08:043][184]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door2
+[2026.05.19-02.29.08:043][184]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door240E8E755420D20C4DA6282B8AF595F1C.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door2.uasset'
+[2026.05.19-02.29.08:051][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.350 ms (total: 9.37 sec)
+[2026.05.19-02.29.08:127][184]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.29.08:127][184]LogContentValidation: Enabled validators:
+[2026.05.19-02.29.08:127][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.29.08:127][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.29.08:127][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.29.08:127][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.29.08:127][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.29.08:127][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.29.08:127][184]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door2 Проверка ресурса
+[2026.05.19-02.29.17:530][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.29.17:612][592]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door1] ([2] browsable assets)...
+[2026.05.19-02.29.17:628][592]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/SomeObjects/BP_Door1.BP_Door1]
+[2026.05.19-02.29.17:628][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door1]
+[2026.05.19-02.29.17:645][592]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door1
+[2026.05.19-02.29.17:646][592]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door1EB7E574D4C022E5DCC3C3C8877856CEF.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door1.uasset'
+[2026.05.19-02.29.17:656][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.221 ms (total: 9.49 sec)
+[2026.05.19-02.29.17:733][592]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.29.17:733][592]LogContentValidation: Enabled validators:
+[2026.05.19-02.29.17:733][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.29.17:733][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.29.17:733][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.29.17:733][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.29.17:733][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.29.17:733][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.29.17:733][592]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door1 Проверка ресурса
+[2026.05.19-02.29.20:070][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.05.19-02.29.21:082][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.29.21:163][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door1] ([2] browsable assets)...
+[2026.05.19-02.29.21:178][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/SomeObjects/BP_Door1.BP_Door1]
+[2026.05.19-02.29.21:178][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door1]
+[2026.05.19-02.29.21:193][731]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door1
+[2026.05.19-02.29.21:194][731]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door18325BC294CE6EF5704E63CB1239AB4B7.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door1.uasset'
+[2026.05.19-02.29.21:201][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.433 ms (total: 9.61 sec)
+[2026.05.19-02.29.21:284][731]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.29.21:284][731]LogContentValidation: Enabled validators:
+[2026.05.19-02.29.21:284][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.29.21:284][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.29.21:285][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.29.21:285][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.29.21:285][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.29.21:285][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.29.21:285][731]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door1 Проверка ресурса
+[2026.05.19-02.29.39:841][559]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (63 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.23)
+[2026.05.19-02.29.49:267][860]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2026.05.19-02.29.52:353][ 32]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (33 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.21)
+[2026.05.19-02.29.52:780][ 53]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.92)
+[2026.05.19-02.29.57:807][313]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.39)
+[2026.05.19-02.30.02:612][556]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.30)
+[2026.05.19-02.30.09:698][928]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.13)
+[2026.05.19-02.30.10:418][966]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (43 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.30)
+[2026.05.19-02.30.28:244][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.30.28:364][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.05.19-02.30.28:407][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.19-02.30.28:437][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.05.19-02.30.28:442][898]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1D/AP1P0FL0ZX80OU43UI84Z4
+[2026.05.19-02.30.28:443][898]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/AP1P0FL0ZX80OU43UI84Z4AE3FA2C740A37458DF526BAB32F1093F.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1D/AP1P0FL0ZX80OU43UI84Z4.uasset'
+[2026.05.19-02.30.28:446][898]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IE/VILI9CPGEWFJQJT90T0OYV
+[2026.05.19-02.30.28:447][898]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/VILI9CPGEWFJQJT90T0OYV0644F5784845CE190187919566E1922A.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IE/VILI9CPGEWFJQJT90T0OYV.uasset'
+[2026.05.19-02.30.28:471][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.211 ms (total: 9.84 sec)
+[2026.05.19-02.30.28:551][898]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.19-02.30.28:551][898]LogContentValidation: Enabled validators:
+[2026.05.19-02.30.28:551][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.30.28:551][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.30.28:551][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.30.28:551][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.30.28:551][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.30.28:551][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.30.28:551][898]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Проверка ресурса
+[2026.05.19-02.30.46:928][813]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2_C
+[2026.05.19-02.30.46:928][813]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2_C
+[2026.05.19-02.30.46:931][813]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2 as actor: BP_Door2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door2_C_0
+[2026.05.19-02.30.46:933][813]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2 as actor: BP_Door2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door2_C_0
+[2026.05.19-02.30.47:899][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.19-02.30.47:905][853]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2026.05.19-02.30.47:913][853]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2_C
+[2026.05.19-02.30.47:913][853]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2_C
+[2026.05.19-02.30.47:919][853]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2 as actor: BP_Door2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door2_C_UAID_505A65F7A69677DC02_1718494767
+[2026.05.19-02.30.47:923][853]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/SomeObjects/BP_Door2.BP_Door2 as actor: BP_Door2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door2_C_UAID_505A65F7A69677DC02_1718494767
+[2026.05.19-02.31.09:234][934]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.20)
+[2026.05.19-02.31.41:475][421]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (22 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.62)
+[2026.05.19-02.31.41:576][426]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.74)
+[2026.05.19-02.32.07:252][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.32.07:384][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.05.19-02.32.07:429][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.19-02.32.07:459][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.19-02.32.07:465][645]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AX/DP8WPMM4LP18V13HFUG3HE
+[2026.05.19-02.32.07:466][645]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/DP8WPMM4LP18V13HFUG3HE334127594023E2C4ECF6E5981D597D67.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/AX/DP8WPMM4LP18V13HFUG3HE.uasset'
+[2026.05.19-02.32.07:470][645]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8Q/IN0O4H3XL2WTHXR25QFWEN
+[2026.05.19-02.32.07:470][645]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/IN0O4H3XL2WTHXR25QFWENB2870F504767D58F6F71D0B600CE5143.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8Q/IN0O4H3XL2WTHXR25QFWEN.uasset'
+[2026.05.19-02.32.07:494][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.985 ms (total: 10.0 sec)
+[2026.05.19-02.32.07:565][645]LogContentValidation: Display: Starting to validate 3 assets
+[2026.05.19-02.32.07:565][645]LogContentValidation: Enabled validators:
+[2026.05.19-02.32.07:565][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.32.07:565][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.32.07:565][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.32.07:565][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.32.07:565][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.32.07:565][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.32.07:565][645]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Проверка ресурса
+[2026.05.19-02.32.12:101][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.32.12:198][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.05.19-02.32.12:233][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.19-02.32.12:265][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.19-02.32.12:294][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.011 ms (total: 10.2 sec)
+[2026.05.19-02.32.21:569][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.19-02.32.21:728][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.05.19-02.32.27:923][693]LogContentBrowser: Attempting asset rename: Item_Key1 -> Item_Weapon
+[2026.05.19-02.32.28:075][693]LogMetaData: Removing '/Game/Blueprint/Item/Item_Weapon.SKEL_Item_Weapon_C' ref from Metadata '/Game/Blueprint/Item/Item_Key1.PackageMetaData'
+[2026.05.19-02.32.28:075][693]LogMetaData: Removing '/Game/Blueprint/Item/Item_Weapon.Item_Weapon_C' ref from Metadata '/Game/Blueprint/Item/Item_Key1.PackageMetaData'
+[2026.05.19-02.32.28:075][693]LogMetaData: Removing '/Game/Blueprint/Item/Item_Weapon.SKEL_Item_Weapon_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprint/Item/Item_Key1.PackageMetaData'
+[2026.05.19-02.32.28:075][693]LogMetaData: Removing '/Game/Blueprint/Item/Item_Weapon.SKEL_Item_Weapon_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprint/Item/Item_Key1.PackageMetaData'
+[2026.05.19-02.32.28:075][693]LogMetaData: Removing '/Game/Blueprint/Item/Item_Weapon.SKEL_Item_Weapon_C:ReceiveTick' ref from Metadata '/Game/Blueprint/Item/Item_Key1.PackageMetaData'
+[2026.05.19-02.32.28:075][693]LogMetaData: Removing '/Game/Blueprint/Item/Item_Weapon.SKEL_Item_Weapon_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/Item/Item_Key1.PackageMetaData'
+[2026.05.19-02.32.28:081][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.32.28:081][693]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Item/Item_Weapon] ([2] browsable assets)...
+[2026.05.19-02.32.28:081][693]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.05.19-02.32.28:105][693]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon]
+[2026.05.19-02.32.28:105][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Item/Item_Weapon]
+[2026.05.19-02.32.28:105][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Item/Item_Weapon" FILE="../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset" SILENT=true
+[2026.05.19-02.32.28:109][693]LogSavePackage: Moving output files for package: /Game/Blueprint/Item/Item_Weapon
+[2026.05.19-02.32.28:109][693]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Item_Weapon751D19D14DCA60ECB10114864EB773A1.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset'
+[2026.05.19-02.32.28:114][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.828 ms (total: 10.3 sec)
+[2026.05.19-02.32.28:157][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.19-02.32.28:189][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.19-02.32.28:217][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.19-02.32.28:307][693]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.32.28:307][693]LogContentValidation: Enabled validators:
+[2026.05.19-02.32.28:307][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.32.28:307][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.32.28:307][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.32.28:307][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.32.28:307][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.32.28:307][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.32.28:307][693]AssetCheck: /Game/Blueprint/Item/Item_Weapon Проверка ресурса
+[2026.05.19-02.32.28:587][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.32.28:667][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Item/Item_Weapon] ([2] browsable assets)...
+[2026.05.19-02.32.28:667][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Item/Item_Weapon]
+[2026.05.19-02.32.28:667][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Item/Item_Weapon" FILE="../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset" SILENT=true
+[2026.05.19-02.32.28:671][707]LogSavePackage: Moving output files for package: /Game/Blueprint/Item/Item_Weapon
+[2026.05.19-02.32.28:672][707]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Item_WeaponDD2562524F1F56D39A49D3A8FF9C44B8.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset'
+[2026.05.19-02.32.28:681][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.769 ms (total: 10.4 sec)
+[2026.05.19-02.32.28:755][707]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.32.28:756][707]LogContentValidation: Enabled validators:
+[2026.05.19-02.32.28:756][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.32.28:756][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.32.28:756][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.32.28:756][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.32.28:756][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.32.28:756][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.32.28:756][707]AssetCheck: /Game/Blueprint/Item/Item_Weapon Проверка ресурса
+[2026.05.19-02.33.29:774][964]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.19-02.33.29:816][964]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.19-02.33.29:833][965]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.19-02.33.33:547][174]LogContentBrowser: Attempting asset rename: NewFolder -> Weapon
+[2026.05.19-02.33.33:548][174]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.19-02.33.54:846][392]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.33.54:933][392]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/source/T-SHOTGUN.fbx]
+[2026.05.19-02.33.56:436][392]LogSlate: Window 'ImportContent' being destroyed
+[2026.05.19-02.33.56:494][392]LogInterchangeEngine: [Ожидание] Импорт
+[2026.05.19-02.33.56:495][392]LogInterchangeEngine: [Ожидание] Импорт -  (2)
+[2026.05.19-02.33.56:495][392]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/DIFFUSE_SHOTGUN.jpg]
+[2026.05.19-02.33.56:496][392]LogInterchangeEngine: [Ожидание] Импорт -  (3)
+[2026.05.19-02.33.56:496][392]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/EMIT_SHOTGUN.jpg]
+[2026.05.19-02.33.56:497][392]LogInterchangeEngine: [Ожидание] Импорт -  (4)
+[2026.05.19-02.33.56:497][392]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/METALNESS_SHOTGUN.jpg]
+[2026.05.19-02.33.56:497][392]LogInterchangeEngine: [Ожидание] Импорт -  (5)
+[2026.05.19-02.33.56:497][392]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/NORMAL_SHOTGUN.jpg]
+[2026.05.19-02.33.56:498][392]LogInterchangeEngine: [Ожидание] Импорт -  (6)
+[2026.05.19-02.33.56:498][392]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/ROUGHNESS_SHOTGUN.jpg]
+[2026.05.19-02.33.56:499][392]LogInterchangeEngine: [Ожидание] Импорт -  (7)
+[2026.05.19-02.33.56:499][392]LogInterchangeEngine: Display: Interchange start importing source [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/SPECULAR_SHOTGUN.jpg]
+[2026.05.19-02.33.56:557][393]LogStreaming: Display: FlushAsyncLoading(724): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.33.56:621][394]LogStreaming: Display: FlushAsyncLoading(725): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.33.56:623][394]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/NORMAL_SHOTGUN.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.19-02.33.56:623][395]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/ROUGHNESS_SHOTGUN.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.19-02.33.56:623][395]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/METALNESS_SHOTGUN.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.19-02.33.56:692][395]LogStaticMesh: Display: Создание статичной сетки T-SHOTGUN (расчётный объём требуемой памяти: 15.035384 Мбайт)...
+[2026.05.19-02.33.56:737][395]LogStaticMesh: Adjacency [0.00s], tris: 9764, UVs 1
+[2026.05.19-02.33.56:757][395]LogStaticMesh: Clustering [0.02s]. Ratio: 1.012987
+[2026.05.19-02.33.56:759][395]LogStaticMesh: Leaves [0.00s]
+[2026.05.19-02.33.56:902][396]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.05.19-02.33.56:960][397]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.33.56:962][397]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...n_extracted/textures/ROUGHNESS_SHOTGUN.jpg]
+[2026.05.19-02.33.56:962][397]LogInterchangeEngine: [Ожидание] Импорт -  (6)
+[2026.05.19-02.33.56:962][397]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...n_extracted/textures/NORMAL_SHOTGUN.jpg]
+[2026.05.19-02.33.56:962][397]LogInterchangeEngine: [Ожидание] Импорт -  (5)
+[2026.05.19-02.33.57:000][397]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/EMIT_SHOTGUN.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.19-02.33.57:000][397]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/DIFFUSE_SHOTGUN.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.19-02.33.57:022][398]LogStaticMesh: Reduce [0.26s]
+[2026.05.19-02.33.57:064][398]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...n_extracted/textures/METALNESS_SHOTGUN.jpg]
+[2026.05.19-02.33.57:065][398]LogInterchangeEngine: [Ожидание] Импорт -  (4)
+[2026.05.19-02.33.57:065][398]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.33.57:107][398]LogInterchangeImport: JPEG file [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/textures/SPECULAR_SHOTGUN.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.05.19-02.33.57:111][399]LogStaticMesh: Fallback [0.09s], num tris: 2217
+[2026.05.19-02.33.57:115][399]LogStaticMesh: ConstrainClusters:
+[2026.05.19-02.33.57:115][399]LogStaticMesh:   Input: 158 Clusters, 19838 Triangles and 16894 Vertices
+[2026.05.19-02.33.57:115][399]LogStaticMesh:   Output without splits: 158 Clusters, 19838 Triangles and 17063 Vertices
+[2026.05.19-02.33.57:115][399]LogStaticMesh:   Output with splits: 158 Clusters, 19838 Triangles and 17063 Vertices
+[2026.05.19-02.33.57:115][399]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 158, Slow Path Clusters: 0, 1 Material: 158, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.19-02.33.57:121][399]LogStaticMesh: WritePages:
+[2026.05.19-02.33.57:121][399]LogStaticMesh:   Root: GPU size: 31968 bytes. 1 Pages. 31968.000 bytes per page (97.559% utilization).
+[2026.05.19-02.33.57:121][399]LogStaticMesh:   Streaming: GPU size: 175292 bytes. 2 Pages (2 with relative encoding). 87646.000 bytes per page (66.869% utilization).
+[2026.05.19-02.33.57:121][399]LogStaticMesh:   Page data disk size: 175072 bytes. Fixup data size: 704 bytes.
+[2026.05.19-02.33.57:121][399]LogStaticMesh:   Total GPU size: 207260 bytes, Total disk size: 175776 bytes.
+[2026.05.19-02.33.57:121][399]LogStaticMesh: Encode [0.01s]
+[2026.05.19-02.33.57:121][399]LogStaticMesh: Nanite build [0.39s]
+
+[2026.05.19-02.33.57:129][399]LogStaticMesh: Built static mesh [0.44s] /Game/Blueprint/Weapon/source/T-SHOTGUN.T-SHOTGUN
+[2026.05.19-02.33.57:147][399]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...n_extracted/textures/EMIT_SHOTGUN.jpg]
+[2026.05.19-02.33.57:147][399]LogInterchangeEngine: [Ожидание] Импорт -  (3)
+[2026.05.19-02.33.57:255][400]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...gun_extracted/source/T-SHOTGUN.fbx]
+[2026.05.19-02.33.57:255][400]LogInterchangeEngine: [Ожидание] Импорт -  (2)
+[2026.05.19-02.33.57:255][400]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...n_extracted/textures/DIFFUSE_SHOTGUN.jpg]
+[2026.05.19-02.33.57:255][400]LogInterchangeEngine: [Ожидание] Импорт -  (1)
+[2026.05.19-02.33.57:369][401]LogInterchangeEngine: Display: Interchange import completed [C:/ProgramData/Epic/...n_extracted/textures/SPECULAR_SHOTGUN.jpg]
+[2026.05.19-02.33.57:369][401]Interchange: Warning: [C:/ProgramData/Epic/EpicGamesLauncher/VaultCache/FabLibrary/FREE_SHOTGUN-108366de/fbx/tactical-shotgun_extracted/source/T-SHOTGUN.fbx: 'T-SHOTGUN', StaticMesh] В этом файле FBX не найдена информация группы сглаживания сетки 'shotgun'. Перед экспортированием файла включите настройку 'Экспортировать группы сглаживания' в экспортёре FBX.
+[2026.05.19-02.33.57:469][401]LogInterchangeEngine: [Ожидание] Импорт - Operation completed.
+[2026.05.19-02.33.57:469][401]LogInterchangeEngine: [Успешно] Импортирование выполнено
+[2026.05.19-02.33.58:934][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.33.59:049][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Weapon/textures/DIFFUSE_SHOTGUN] ([1] browsable assets)...
+[2026.05.19-02.33.59:052][460]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Weapon/textures/DIFFUSE_SHOTGUN.DIFFUSE_SHOTGUN]
+[2026.05.19-02.33.59:052][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapon/textures/DIFFUSE_SHOTGUN]
+[2026.05.19-02.33.59:055][460]LogSavePackage: Moving output files for package: /Game/Blueprint/Weapon/textures/DIFFUSE_SHOTGUN
+[2026.05.19-02.33.59:055][460]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/DIFFUSE_SHOTGUN8AF7998C4B24CD8572F9C0AE47670560.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Weapon/textures/DIFFUSE_SHOTGUN.uasset'
+[2026.05.19-02.33.59:057][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Weapon/textures/EMIT_SHOTGUN] ([1] browsable assets)...
+[2026.05.19-02.33.59:058][460]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Weapon/textures/EMIT_SHOTGUN.EMIT_SHOTGUN]
+[2026.05.19-02.33.59:058][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapon/textures/EMIT_SHOTGUN]
+[2026.05.19-02.33.59:060][460]LogSavePackage: Moving output files for package: /Game/Blueprint/Weapon/textures/EMIT_SHOTGUN
+[2026.05.19-02.33.59:060][460]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/EMIT_SHOTGUNF5BDF211450049F08EA8FB8B25DEE9EC.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Weapon/textures/EMIT_SHOTGUN.uasset'
+[2026.05.19-02.33.59:062][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Weapon/textures/METALNESS_SHOTGUN] ([1] browsable assets)...
+[2026.05.19-02.33.59:064][460]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Weapon/textures/METALNESS_SHOTGUN.METALNESS_SHOTGUN]
+[2026.05.19-02.33.59:064][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapon/textures/METALNESS_SHOTGUN]
+[2026.05.19-02.33.59:066][460]LogSavePackage: Moving output files for package: /Game/Blueprint/Weapon/textures/METALNESS_SHOTGUN
+[2026.05.19-02.33.59:066][460]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/METALNESS_SHOTGUNE18DB9994EFB395BD6B5BDB1DE4B6A87.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Weapon/textures/METALNESS_SHOTGUN.uasset'
+[2026.05.19-02.33.59:068][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Weapon/textures/NORMAL_SHOTGUN] ([1] browsable assets)...
+[2026.05.19-02.33.59:069][460]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Weapon/textures/NORMAL_SHOTGUN.NORMAL_SHOTGUN]
+[2026.05.19-02.33.59:069][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapon/textures/NORMAL_SHOTGUN]
+[2026.05.19-02.33.59:073][460]LogSavePackage: Moving output files for package: /Game/Blueprint/Weapon/textures/NORMAL_SHOTGUN
+[2026.05.19-02.33.59:074][460]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/NORMAL_SHOTGUN3DA7DCCF4B3F2C11FD2295A9EF071DB1.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Weapon/textures/NORMAL_SHOTGUN.uasset'
+[2026.05.19-02.33.59:075][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Weapon/textures/ROUGHNESS_SHOTGUN] ([1] browsable assets)...
+[2026.05.19-02.33.59:077][460]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Weapon/textures/ROUGHNESS_SHOTGUN.ROUGHNESS_SHOTGUN]
+[2026.05.19-02.33.59:077][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapon/textures/ROUGHNESS_SHOTGUN]
+[2026.05.19-02.33.59:081][460]LogSavePackage: Moving output files for package: /Game/Blueprint/Weapon/textures/ROUGHNESS_SHOTGUN
+[2026.05.19-02.33.59:081][460]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/ROUGHNESS_SHOTGUN5122884340464F8EC04DF9882C4C2E20.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Weapon/textures/ROUGHNESS_SHOTGUN.uasset'
+[2026.05.19-02.33.59:082][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Weapon/textures/SPECULAR_SHOTGUN] ([1] browsable assets)...
+[2026.05.19-02.33.59:084][460]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprint/Weapon/textures/SPECULAR_SHOTGUN.SPECULAR_SHOTGUN]
+[2026.05.19-02.33.59:084][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Weapon/textures/SPECULAR_SHOTGUN]
+[2026.05.19-02.33.59:087][460]LogSavePackage: Moving output files for package: /Game/Blueprint/Weapon/textures/SPECULAR_SHOTGUN
+[2026.05.19-02.33.59:088][460]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/SPECULAR_SHOTGUNB9860A6C4847849B08C95EB55A69CCD8.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Weapon/textures/SPECULAR_SHOTGUN.uasset'
+[2026.05.19-02.33.59:103][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.165 ms (total: 10.5 sec)
+[2026.05.19-02.33.59:190][460]LogContentValidation: Display: Starting to validate 6 assets
+[2026.05.19-02.33.59:190][460]LogContentValidation: Enabled validators:
+[2026.05.19-02.33.59:190][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.33.59:190][460]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.33.59:190][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.33.59:190][460]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.33.59:190][460]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.33.59:190][460]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.33.59:190][460]AssetCheck: /Game/Blueprint/Weapon/textures/DIFFUSE_SHOTGUN Проверка ресурса
+[2026.05.19-02.33.59:191][460]AssetCheck: /Game/Blueprint/Weapon/textures/EMIT_SHOTGUN Проверка ресурса
+[2026.05.19-02.33.59:191][460]AssetCheck: /Game/Blueprint/Weapon/textures/METALNESS_SHOTGUN Проверка ресурса
+[2026.05.19-02.33.59:191][460]AssetCheck: /Game/Blueprint/Weapon/textures/NORMAL_SHOTGUN Проверка ресурса
+[2026.05.19-02.33.59:191][460]AssetCheck: /Game/Blueprint/Weapon/textures/ROUGHNESS_SHOTGUN Проверка ресурса
+[2026.05.19-02.33.59:191][460]AssetCheck: /Game/Blueprint/Weapon/textures/SPECULAR_SHOTGUN Проверка ресурса
+[2026.05.19-02.34.01:054][552]LogMaterial: Display: Material /Game/Blueprint/Weapon/source/shotgun-material.shotgun-material needed to have new flag set bUsedWithNanite !
+[2026.05.19-02.34.04:833][724]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprint/Weapon/source/shotgun-material.shotgun-material
+[2026.05.19-02.34.04:839][724]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.05.19-02.34.05:547][724]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.19-02.34.05:547][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.34.05:547][724]MaterialEditorStats: Shader Count: 0
+[2026.05.19-02.34.05:547][724]MaterialEditorStats: Preshaders: 3  (3 param fetches, 10 ops)
+[2026.05.19-02.34.05:665][726]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.19-02.34.05:665][726]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.19-02.34.05:665][726]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.19-02.34.05:665][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.19-02.34.05:665][726]MaterialEditorStats: Shader Count: 3
+[2026.05.19-02.34.05:665][726]MaterialEditorStats: Preshaders: 3  (3 param fetches, 10 ops)
+[2026.05.19-02.34.14:780][ 82]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-02.34.15:164][ 89]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.05.19-02.34.15:362][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.05.19-02.34.37:830][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.05.19-02.34.38:778][970]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.19-02.34.38:823][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.05.19-02.34.38:859][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.05.19-02.34.38:886][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.19-02.34.42:631][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.05.19-02.34.44:168][111]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.19-02.34.44:287][111]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Blueprint/Weapon/source/shotgun-material.shotgun-material
+	Asset Type: Material
+	Asset Name: /Game/Blueprint/Weapon/source/T-SHOTGUN.T-SHOTGUN
+	Asset Type: StaticMesh
+[2026.05.19-02.34.44:963][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.05.19-02.34.45:000][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.05.19-02.34.45:028][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.05.19-02.34.58:225][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon
+[2026.05.19-02.34.58:225][640]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.05.19-02.35.00:648][723]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.35.00:648][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.35.00:678][723]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon
+[2026.05.19-02.35.00:678][723]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.05.19-02.35.01:302][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.05.19-02.35.05:655][890]LogSlate: Took 0.000800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.05.19-02.35.15:925][252]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.05.19-02.35.16:009][254]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.05.19-02.35.19:219][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2026.05.19-02.35.22:638][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.35.22:744][477]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/mid/source/T-SHOTGUN] ([1] browsable assets)...
+[2026.05.19-02.35.22:744][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/mid/source/T-SHOTGUN]
+[2026.05.19-02.35.22:744][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mid/source/T-SHOTGUN" FILE="../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/source/T-SHOTGUN.uasset" SILENT=true
+[2026.05.19-02.35.22:752][477]LogSavePackage: Moving output files for package: /Game/mid/source/T-SHOTGUN
+[2026.05.19-02.35.22:752][477]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/T-SHOTGUN6843415B4C3434839758488449F72936.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/mid/source/T-SHOTGUN.uasset'
+[2026.05.19-02.35.22:764][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.294 ms (total: 10.7 sec)
+[2026.05.19-02.35.22:845][477]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.35.22:845][477]LogContentValidation: Enabled validators:
+[2026.05.19-02.35.22:845][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.35.22:845][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.35.22:845][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.35.22:845][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.35.22:845][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.35.22:845][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.35.22:845][477]AssetCheck: /Game/mid/source/T-SHOTGUN Проверка ресурса
+[2026.05.19-02.35.24:843][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.19-02.35.25:374][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.35.25:481][564]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Item/Item_Weapon] ([2] browsable assets)...
+[2026.05.19-02.35.25:490][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon]
+[2026.05.19-02.35.25:490][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Item/Item_Weapon]
+[2026.05.19-02.35.25:490][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Item/Item_Weapon" FILE="../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset" SILENT=true
+[2026.05.19-02.35.25:495][564]LogSavePackage: Moving output files for package: /Game/Blueprint/Item/Item_Weapon
+[2026.05.19-02.35.25:495][564]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Item_Weapon6025F3CB42EC0C0C6CBE96A947CC4419.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset'
+[2026.05.19-02.35.25:508][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.432 ms (total: 10.8 sec)
+[2026.05.19-02.35.25:586][564]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.35.25:586][564]LogContentValidation: Enabled validators:
+[2026.05.19-02.35.25:586][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.35.25:586][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.35.25:586][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.35.25:586][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.35.25:586][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.35.25:586][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.35.25:586][564]AssetCheck: /Game/Blueprint/Item/Item_Weapon Проверка ресурса
+[2026.05.19-02.35.37:665][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.35.37:778][ 42]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Item/Item_Weapon] ([2] browsable assets)...
+[2026.05.19-02.35.37:787][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon]
+[2026.05.19-02.35.37:787][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Item/Item_Weapon]
+[2026.05.19-02.35.37:788][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Item/Item_Weapon" FILE="../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset" SILENT=true
+[2026.05.19-02.35.37:792][ 42]LogSavePackage: Moving output files for package: /Game/Blueprint/Item/Item_Weapon
+[2026.05.19-02.35.37:793][ 42]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/Item_Weapon3751978D45B887CE8380999E3279393B.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/Item_Weapon.uasset'
+[2026.05.19-02.35.37:804][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.648 ms (total: 10.9 sec)
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: Enabled validators:
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.35.37:879][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.35.37:879][ 42]AssetCheck: /Game/Blueprint/Item/Item_Weapon Проверка ресурса
+[2026.05.19-02.35.42:172][203]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2026.05.19-02.35.42:197][203]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.5\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	SceneTexture expressions cannot be used in opaque materials except if used with the Single Layer Water shading model.
+
+[2026.05.19-02.36.18:441][815]LogEditorClassViewer: Warning: Class /Game/Blueprints/BP_Node1.BP_Node1_C has parent /Game/Blueprints/BP_MasterClassObj.BP_MasterClassObj_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.05.19-02.36.48:445][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.36.48:563][180]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Item/DT_InventoryData] ([1] browsable assets)...
+[2026.05.19-02.36.48:563][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Item/DT_InventoryData]
+[2026.05.19-02.36.48:565][180]LogSavePackage: Moving output files for package: /Game/Blueprint/Item/DT_InventoryData
+[2026.05.19-02.36.48:565][180]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/DT_InventoryDataA17165B544F4B920D0815DBC5E7C78C9.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/Item/DT_InventoryData.uasset'
+[2026.05.19-02.36.48:575][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.721 ms (total: 11.1 sec)
+[2026.05.19-02.36.48:653][180]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.36.48:653][180]LogContentValidation: Enabled validators:
+[2026.05.19-02.36.48:653][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.36.48:653][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.36.48:653][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.36.48:653][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.36.48:653][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.36.48:654][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.36.48:654][180]AssetCheck: /Game/Blueprint/Item/DT_InventoryData Проверка ресурса
+[2026.05.19-02.37.38:365][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Item/Item_Weapon.Item_Weapon_C
+[2026.05.19-02.37.38:365][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Item/Item_Weapon.Item_Weapon_C
+[2026.05.19-02.37.38:368][472]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon as actor: Item_Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Item_Weapon_C_0
+[2026.05.19-02.37.38:370][472]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon as actor: Item_Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Item_Weapon_C_0
+[2026.05.19-02.37.39:338][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-02.37.39:358][513]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2026.05.19-02.37.39:366][513]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Item/Item_Weapon.Item_Weapon_C
+[2026.05.19-02.37.39:366][513]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Item/Item_Weapon.Item_Weapon_C
+[2026.05.19-02.37.39:369][513]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon as actor: Item_Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Item_Weapon_C_UAID_505A65F7A69677DC02_2129947768
+[2026.05.19-02.37.39:372][513]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Item/Item_Weapon.Item_Weapon as actor: Item_Weapon_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Item_Weapon_C_UAID_505A65F7A69677DC02_2129947768
+[2026.05.19-02.37.53:464][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.37.53:594][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.05.19-02.37.53:624][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.19-02.37.53:651][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.19-02.37.53:657][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NC/UXTHM35YJC3OERILWBK7TT
+[2026.05.19-02.37.53:657][209]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/UXTHM35YJC3OERILWBK7TT8B16B6034BF1E8040F84E9A4623A9C1D.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NC/UXTHM35YJC3OERILWBK7TT.uasset'
+[2026.05.19-02.37.53:672][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.023 ms (total: 11.3 sec)
+[2026.05.19-02.37.53:754][209]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.37.53:754][209]LogContentValidation: Enabled validators:
+[2026.05.19-02.37.53:754][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.37.53:754][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.37.53:754][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.37.53:754][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.37.53:754][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.37.53:754][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.37.53:754][209]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Проверка ресурса
+[2026.05.19-02.37.55:812][314]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (52 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2026.05.19-02.37.58:967][464]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (71 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2026.05.19-02.38.17:394][119]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2026.05.19-02.38.17:401][119]LogContentBundle: [ThirdPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2026.05.19-02.38.17:401][119]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.05.19-02.38.17:406][119]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.893 ms (total: 21.013 ms)
+[2026.05.19-02.38.17:413][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-02.38.17:444][119]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.05.19-02.38.17:453][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008383s)
+[2026.05.19-02.38.17:453][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008435s)
+[2026.05.19-02.38.17:479][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.19-02.38.17:487][119]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.05.19-02.38.17:489][119]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.19-02.38.17:490][119]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.19-02.38.17:490][119]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.19-02.38.17:490][119]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.19-02.38.17:492][119]LogWorldPartition: Display: WorldPartition initialize took 2.948 ms (total: 133.756 ms)
+[2026.05.19-02.38.17:493][119]LogPlayLevel: PIE: World Init took: (0.005169s)
+[2026.05.19-02.38.17:494][119]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.05.19-02.38.17:494][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-02.38.17:494][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-02.38.17:494][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-02.38.17:494][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-02.38.17:494][119]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-02.38.17:494][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-02.38.17:494][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-02.38.17:494][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-02.38.17:494][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-02.38.17:494][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-02.38.17:494][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-02.38.17:496][119]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-02.38.17:516][119]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2026.05.19-02.38.17:516][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-02.38.17:516][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-02.38.17:516][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-02.38.17:517][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.05.19-02.38.17:517][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.05.19-02.38.17:519][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.05.19-02.38.17:519][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.05.19-02.38.17:519][119]LogInit: FAudioDevice initialized with ID 5.
+[2026.05.19-02.38.17:519][119]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2026.05.19-02.38.17:519][119]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.19-02.38.17:526][119]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.19-02.38.17:529][119]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.05.19-07.38.17
+[2026.05.19-02.38.17:530][119]LogWorld: Bringing up level for play took: 0.003193
+[2026.05.19-02.38.17:533][119]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.05.19-02.38.17:540][119]LogBlueprintUserMessages: [WBP_InventoryUI] Hello
+[2026.05.19-02.38.17:540][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:540][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:541][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:541][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:541][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:542][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:542][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:542][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:543][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:543][119]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.38.17:543][119]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.05.19-02.38.17:544][119]PIE: Сервер вошел в систему
+[2026.05.19-02.38.17:545][119]PIE: Общее время запуска игры в редакторе: 0,144
+[2026.05.19-02.38.25:084][563]LogBlueprintUserMessages: [Item_Food_C_UAID_505A65F7A696C4DB02_1874994255] Dissapear
+[2026.05.19-02.38.25:483][587]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.38.25:483][587]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.38.26:299][636]LogBlueprintUserMessages: [WBP_InventorySlot_C_0] Item Used
+[2026.05.19-02.38.26:299][636]LogBlueprintUserMessages: [WBP_InventorySlot_C_0] Consumed Food
+[2026.05.19-02.38.26:549][651]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.38.26:549][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.38.29:168][808]LogBlueprintUserMessages: [Item_Key_C_UAID_505A65F7A6964EDC02_1077868552] Dissapear
+[2026.05.19-02.38.30:017][859]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.38.30:017][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.38.30:400][882]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.38.30:400][882]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.38.39:551][431]LogBlueprintUserMessages: [Item_CardWeapon_C_UAID_505A65F7A69676DC02_1594179586] Dissapear
+[2026.05.19-02.38.42:362][596]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.38.42:362][596]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.38.43:142][640]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.38.43:142][640]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.38.55:164][349]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.38.55:164][349]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.38.56:045][398]LogBlueprintUserMessages: [WBP_InventorySlot_C_0] Item Used
+[2026.05.19-02.38.56:391][417]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.38.56:391][417]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.38.57:565][481]LogBlueprintUserMessages: [BP_Door_C_UAID_505A65F7A69650DC02_1560937897] Dissapear
+[2026.05.19-02.38.59:701][608]LogBlueprintUserMessages: [Item_Card_C_UAID_505A65F7A69676DC02_1109054584] Dissapear
+[2026.05.19-02.39.00:801][674]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.39.00:801][674]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.39.01:284][703]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.39.01:284][703]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.39.02:790][790]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (155 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2026.05.19-02.39.02:872][794]LogBlueprintUserMessages: [BP_Door_C_UAID_505A65F7A69650DC02_1560937897] Dissapear
+[2026.05.19-02.39.08:622][124]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.39.08:622][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.39.09:455][174]LogBlueprintUserMessages: [WBP_InventorySlot_C_0] Item Used
+[2026.05.19-02.39.09:739][191]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.39.09:739][191]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.39.15:309][525]LogBlueprintUserMessages: [BP_Door2_C_UAID_505A65F7A69677DC02_1718494767] Dissapear
+[2026.05.19-02.39.17:667][658]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.39.17:667][658]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.39.18:704][719]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.39.18:704][719]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.39.19:938][793]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.39.19:938][793]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.39.20:387][820]LogBlueprintUserMessages: [WBP_InventorySlot_C_1] Item Used
+[2026.05.19-02.39.20:538][829]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.39.20:538][829]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.39.21:822][906]LogBlueprintUserMessages: [BP_Door1_C_UAID_505A65F7A69675DC02_2131623407] Dissapear
+[2026.05.19-02.39.22:339][937]LogBlueprintUserMessages: [Item_Weapon_C_UAID_505A65F7A69677DC02_2129947768] Dissapear
+[2026.05.19-02.39.23:887][ 30]LogBlueprintUserMessages: [BP_Door1_C_UAID_505A65F7A69675DC02_2131623407] Dissapear
+[2026.05.19-02.39.25:999][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-02.39.25:999][ 94]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.05.19-02.39.26:000][ 94]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.39.26:000][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.39.26:000][ 94]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.05.19-02.39.26:022][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-02.39.26:029][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.39.26:061][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-02.39.26:062][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.19-02.39.26:062][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.05.19-02.39.26:064][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.05.19-02.39.26:071][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-02.39.26:076][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.19-02.39.26:139][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.05.19-02.39.26:209][ 96]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (152 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.30)
+[2026.05.19-02.39.40:830][807]LogDebuggerCommands: Repeating last play command: Выбранное окно просмотра
+[2026.05.19-02.39.40:837][807]LogContentBundle: [ThirdPersonMap(Автономный)] Generating Streaming for 0 Content Bundles.
+[2026.05.19-02.39.40:837][807]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.05.19-02.39.40:841][807]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4.576 ms (total: 25.590 ms)
+[2026.05.19-02.39.40:863][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-02.39.40:863][807]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.05.19-02.39.40:871][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007745s)
+[2026.05.19-02.39.40:871][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007781s)
+[2026.05.19-02.39.40:894][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.05.19-02.39.40:901][807]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.05.19-02.39.40:903][807]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.19-02.39.40:903][807]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.19-02.39.40:903][807]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.19-02.39.40:903][807]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.19-02.39.40:905][807]LogWorldPartition: Display: WorldPartition initialize took 2.783 ms (total: 136.539 ms)
+[2026.05.19-02.39.40:905][807]LogPlayLevel: PIE: World Init took: (0.004721s)
+[2026.05.19-02.39.40:906][807]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.05.19-02.39.40:906][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-02.39.40:906][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-02.39.40:906][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-02.39.40:906][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-02.39.40:906][807]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-02.39.40:907][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-02.39.40:907][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-02.39.40:907][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-02.39.40:907][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-02.39.40:907][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-02.39.40:907][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-02.39.40:909][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-02.39.40:923][807]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2026.05.19-02.39.40:924][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-02.39.40:924][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-02.39.40:924][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-02.39.40:924][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.05.19-02.39.40:924][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.05.19-02.39.40:927][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.05.19-02.39.40:927][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.05.19-02.39.40:927][807]LogInit: FAudioDevice initialized with ID 6.
+[2026.05.19-02.39.40:927][807]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2026.05.19-02.39.40:927][807]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.05.19-02.39.40:930][807]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.19-02.39.40:933][807]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2026.05.19-07.39.40
+[2026.05.19-02.39.40:933][807]LogWorld: Bringing up level for play took: 0.002781
+[2026.05.19-02.39.40:936][807]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.05.19-02.39.40:942][807]LogBlueprintUserMessages: [WBP_InventoryUI] Hello
+[2026.05.19-02.39.40:942][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:942][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:943][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:943][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:943][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:944][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:944][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:944][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:945][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:945][807]LogBlueprintUserMessages: [WBP_InventoryUI] Inventory Slot Added
+[2026.05.19-02.39.40:945][807]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.05.19-02.39.40:946][807]PIE: Сервер вошел в систему
+[2026.05.19-02.39.40:947][807]PIE: Общее время запуска игры в редакторе: 0,111
+[2026.05.19-02.39.55:051][647]LogBlueprintUserMessages: [Item_CardWeapon_C_UAID_505A65F7A69676DC02_1594179586] Dissapear
+[2026.05.19-02.40.06:509][319]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.40.06:509][319]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.40.07:324][368]LogBlueprintUserMessages: [WBP_InventorySlot_C_0] Item Used
+[2026.05.19-02.40.07:493][378]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.40.07:493][378]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.40.09:053][472]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (39 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.31)
+[2026.05.19-02.40.09:227][482]LogBlueprintUserMessages: [BP_Door2_C_UAID_505A65F7A69677DC02_1718494767] Dissapear
+[2026.05.19-02.40.13:415][718]LogBlueprintUserMessages: [BP_Door_C_UAID_505A65F7A69650DC02_1560937897] Dissapear
+[2026.05.19-02.40.18:534][ 21]LogBlueprintUserMessages: [Item_Key_C_UAID_505A65F7A6964EDC02_1077868552] Dissapear
+[2026.05.19-02.40.24:625][383]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.40.24:625][383]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.40.25:243][418]LogBlueprintUserMessages: [WBP_InventorySlot_C_0] Item Used
+[2026.05.19-02.40.25:332][423]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.40.25:333][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.40.26:300][477]LogBlueprintUserMessages: [BP_Door_C_UAID_505A65F7A69650DC02_1560937897] Dissapear
+[2026.05.19-02.40.26:392][482]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.40.26:392][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.40.26:918][513]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.40.26:918][513]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.40.28:384][601]LogBlueprintUserMessages: [Item_Card_C_UAID_505A65F7A69676DC02_1109054584] Dissapear
+[2026.05.19-02.40.30:516][726]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2026.05.19-02.40.30:776][740]LogBlueprintUserMessages: [BP_Door_C_UAID_505A65F7A69650DC02_1560937897] Dissapear
+[2026.05.19-02.40.35:497][  9]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-02.40.35:498][  9]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-02.40.36:180][ 50]LogBlueprintUserMessages: [WBP_InventorySlot_C_0] Item Used
+[2026.05.19-02.40.36:313][ 58]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-02.40.36:313][ 58]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-02.40.38:684][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-02.40.38:684][160]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.05.19-02.40.38:685][160]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-02.40.38:686][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.40.38:686][160]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.05.19-02.40.38:693][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-02.40.38:699][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-02.40.38:728][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-02.40.38:728][160]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.05.19-02.40.38:728][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.05.19-02.40.38:731][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.05.19-02.40.38:741][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.05.19-02.40.38:811][161]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2026.05.19-02.40.51:732][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.40.51:853][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/SomeObjects/BP_Door2] ([2] browsable assets)...
+[2026.05.19-02.40.51:853][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/SomeObjects/BP_Door2]
+[2026.05.19-02.40.51:867][732]LogSavePackage: Moving output files for package: /Game/Blueprint/SomeObjects/BP_Door2
+[2026.05.19-02.40.51:868][732]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/BP_Door26BEDE2FA47E9A0D5BE2A46A5AB8B65D8.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/Blueprint/SomeObjects/BP_Door2.uasset'
+[2026.05.19-02.40.51:879][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.850 ms (total: 11.4 sec)
+[2026.05.19-02.40.51:958][732]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-02.40.51:958][732]LogContentValidation: Enabled validators:
+[2026.05.19-02.40.51:958][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.40.51:958][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.40.51:958][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.40.51:958][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.40.51:958][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.40.51:958][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.40.51:958][732]AssetCheck: /Game/Blueprint/SomeObjects/BP_Door2 Проверка ресурса
+[2026.05.19-02.41.04:988][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.41.05:100][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.19-02.41.05:136][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.19-02.41.05:169][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.19-02.41.05:175][351]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8Q/IN0O4H3XL2WTHXR25QFWEN
+[2026.05.19-02.41.05:176][351]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/IN0O4H3XL2WTHXR25QFWEN780D047C4DDD46E4C31B1EA4AC18F6C4.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8Q/IN0O4H3XL2WTHXR25QFWEN.uasset'
+[2026.05.19-02.41.05:179][351]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1D/AP1P0FL0ZX80OU43UI84Z4
+[2026.05.19-02.41.05:180][351]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/AP1P0FL0ZX80OU43UI84Z4EB7AB1AB46A73268F8F80B973D030517.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1D/AP1P0FL0ZX80OU43UI84Z4.uasset'
+[2026.05.19-02.41.05:194][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.935 ms (total: 11.6 sec)
+[2026.05.19-02.41.05:276][351]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.19-02.41.05:276][351]LogContentValidation: Enabled validators:
+[2026.05.19-02.41.05:276][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.41.05:276][351]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.41.05:276][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.41.05:276][351]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.41.05:276][351]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.41.05:276][351]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.41.05:276][351]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Проверка ресурса
+[2026.05.19-02.41.07:615][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.41.07:728][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.05.19-02.41.07:760][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.19-02.41.07:792][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.19-02.41.07:808][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.334 ms (total: 11.8 sec)
+[2026.05.19-02.41.11:593][641]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (33 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.16)
+[2026.05.19-02.41.16:942][893]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (45 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2026.05.19-02.41.17:507][919]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (21 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.81)
+[2026.05.19-02.41.23:785][210]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (42 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.27)
+[2026.05.19-02.41.23:828][212]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.35)
+[2026.05.19-02.41.26:046][305]Cmd: EDIT COPY
+[2026.05.19-02.41.26:337][313]Cmd: EDIT PASTE
+[2026.05.19-02.41.26:382][313]LogClass: Warning: Short type name "BP_Door_C_UAID_505A65F7A69650DC02_1560937897" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa8490085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84bd05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84bd1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84b7975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa848dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84bd50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84b7975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa501e7b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa501e518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.05.19-02.41.26:389][313]LogClass: Warning: Short type name "BP_Door_C_UAID_505A65F7A69650DC02_1560937897" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffa8490085d UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84bd05d2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84bd1ed6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84b7975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa848dd606 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84bd50b0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa84b7975c UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffa501e7b9b UnrealEditor-UnrealEd.dll!UnknownFunction []
+0x00007ffa501e518c UnrealEditor-UnrealEd.dll!UnknownFunction []
+
+[2026.05.19-02.41.41:134][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-02.41.41:248][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.05.19-02.41.41:285][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.19-02.41.41:316][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.05.19-02.41.41:321][ 16]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8Q/IN0O4H3XL2WTHXR25QFWEN
+[2026.05.19-02.41.41:322][ 16]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/IN0O4H3XL2WTHXR25QFWENF6FE341A47562D17DC3644B359FA3206.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8Q/IN0O4H3XL2WTHXR25QFWEN.uasset'
+[2026.05.19-02.41.41:326][ 16]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ER/78RPV0REZFTPVT8DKR7PMV
+[2026.05.19-02.41.41:326][ 16]LogSavePackage: Moving '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Saved/78RPV0REZFTPVT8DKR7PMVE2F8BED14AB386FDFA8071BCFCE28A38.tmp' to '../../../../../../GamesFolder/ResidentEvilProjectGame/ResidentEvilProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ER/78RPV0REZFTPVT8DKR7PMV.uasset'
+[2026.05.19-02.41.41:340][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.609 ms (total: 12.0 sec)
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: Enabled validators:
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-02.41.41:422][ 16]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-02.41.41:422][ 16]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Проверка ресурса
+[2026.05.19-02.41.42:322][ 64]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
